@@ -32,3 +32,5 @@ func From11() {
 func From12() {
 	fmt.Println("I'm from V1.2.0")
 }
+
+//teste
